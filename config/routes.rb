@@ -9,5 +9,5 @@ Rails.application.routes.draw do
     end
   end
 
-  root "static#index"
+  root 'static#index'
 end
